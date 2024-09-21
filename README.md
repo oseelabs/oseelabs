@@ -1,14 +1,12 @@
 # Welcome to OseeLabs!
 
-<div class="details" style="
-width: 100%;
+<img src="images/profile.png" alt="OseeLabs Logo" width="40%" style="
 max-width: 100%;
-ovrflow: hidden;
-padding: 50rem;
-">
-<img src="images/profile.png" alt="OseeLabs Logo" width="100%"/>
+align-self: center;
+padding: 10rem;
+justify-content: center;
+"/>
 <caption>Name: Lazaro Osee</caption>
-</div>
 
 ## About Me
 Hi there! I'm Lazaro Osee, a passionate Game Developer, Web Developer, and Architecture Student based in Kenya. I focus on creating innovative projects in computer programming technologies and game development.
