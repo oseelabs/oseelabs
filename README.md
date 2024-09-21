@@ -14,9 +14,7 @@ Hi there! I'm Lazaro Osee, a passionate Game Developer, Web Developer, and Archi
 ## Projects
 Here are some of the projects I'm currently working on:
 
-- **[Your Project Name 1](link-to-your-project-1)**: Brief description of the project.
-- **[Your Project Name 2](link-to-your-project-2)**: Brief description of the project.
-- **[Your Project Name 3](link-to-your-project-3)**: Brief description of the project.
+- **[Personal Github Website](https://oseelabs.github.io)**: Website for oseeLabs.
 
 ## Skills
 - **Programming Languages**: JavaScript, Python, C#, GDScript
