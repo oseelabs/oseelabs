@@ -1,11 +1,9 @@
 # Welcome to OseeLabs!
 
 <div class="details" style="
-display: grid; 
-grid-template-columns: 1fr 1fr;
-gap: 2rem;
+width: 100%;
 ">
-<img src="images/profile.png" alt="OseeLabs Logo" width="200"/>
+<img src="images/profile.png" alt="OseeLabs Logo" width="100%"/>
 <caption>Name: Lazaro Osee</caption>
 </div>
 
