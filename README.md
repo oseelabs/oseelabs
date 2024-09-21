@@ -1,6 +1,6 @@
 # Welcome to OseeLabs!
 
-<img src="images/profile.png" alt="OseeLabs Logo" width="40%" style="
+<img src="assets/profile.png" alt="OseeLabs Logo" height="200" style="
 max-width: 100%;
 align-self: center;
 padding: 10rem;
@@ -22,11 +22,11 @@ Here are some of the projects I'm currently working on:
 - **Tools**: Git, Vite, Markdown
 
 ## Contact
-Feel free to reach out to me via email at [info.stingerdevelopers@gmail.com](mailto:info.stingerdevelopers@gmail.com) or connect with me on [YouTube](https://www.youtube.com/@lazosee).
+Feel free to reach out to me via email at [info.stingerdevelopers@gmail.com](mailto:info.stingerdevelopers@gmail.com) 
+or connect with me on [YouTube](https://www.youtube.com/@lazosee).
 
 ## Let's Collaborate!
 I'm open to sponsorships and collaboration on open-source projects. If you share similar interests or have any ideas, let's connect!
 
-##
 Thanks for visiting my profile!
 
