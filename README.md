@@ -1,6 +1,6 @@
 # Welcome to OseeLabs!
 
-![OseeLabs Logo]('./images/profile.png') <!-- Replace with your logo URL -->
+![OseeLabs Logo](images/profile.png) <!-- Replace with your logo URL -->
 
 ## About Me
 Hi there! I'm Lazaro Osee, a passionate Game Developer, Web Developer, and Architecture Student based in Kenya. I focus on creating innovative projects in computer programming technologies and game development.
