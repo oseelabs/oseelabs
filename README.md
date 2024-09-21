@@ -2,6 +2,9 @@
 
 <div class="details" style="
 width: 100%;
+max-width: 100%;
+ovrflow: hidden;
+padding: 50rem;
 ">
 <img src="images/profile.png" alt="OseeLabs Logo" width="100%"/>
 <caption>Name: Lazaro Osee</caption>
