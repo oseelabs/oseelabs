@@ -6,14 +6,7 @@ grid-template-columns: 1fr 1fr;
 gap: 2rem;
 ">
 <img src="images/profile.png" alt="OseeLabs Logo" width="200"/>
-<h3>Name: <span style="
-font-style: italic;
-">Lazaro Osee</span>
-</h3>
-<h3>Name: <span style="
-font-style: italic;
-">Lazaro Osee</span>
-</h3>
+<caption>Name: Lazaro Osee</caption>
 </div>
 
 ## About Me
