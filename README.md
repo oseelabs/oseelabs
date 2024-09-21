@@ -27,5 +27,6 @@ Feel free to reach out to me via email at [info.stingerdevelopers@gmail.com](mai
 ## Let's Collaborate!
 I'm open to sponsorships and collaboration on open-source projects. If you share similar interests or have any ideas, let's connect!
 
+##
 Thanks for visiting my profile!
 
