@@ -1,14 +1,6 @@
 # Welcome to OseeLabs!
 
-<img src="assets/profile.png" alt="OseeLabs Logo" width="40%" style="
-max-width: 100%;
-align-self: center;
-margin: auto;
-padding: auto;
-place-self: center;
-justify-content: center;
-"/>
-<caption>Name: Lazaro Osee</caption>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X61740HW)
 
 ## About Me
 Hi there! I'm __Lazaro Osee__, a passionate __Game Developer__, __Web Developer__, and __Architecture Student__ based in Kenya. 
